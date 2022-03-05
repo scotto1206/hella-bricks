@@ -5,6 +5,12 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
-}
+  siteMetadata: {
+    title: "Hella Bricks",
+  },
+  
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+  ],
+};
