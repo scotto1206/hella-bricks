@@ -1,0 +1,11 @@
+.nav-links {
+    display: flex;
+    padding-left: 0;
+}
+
+.nav-link-item {
+    text-decoration: none;
+    font-family: 'minotaur';
+    font-size: 48px;
+    color: #F1D00A;
+}
