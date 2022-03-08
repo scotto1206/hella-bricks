@@ -1,0 +1,11 @@
+.hero-container {
+    background-color: #3E497A;
+    color: #F0F0F0;
+    margin-top: 80px;
+}
+
+.hero-text {
+    text-align: center;
+    font-family: 'minotaur';
+}
+
