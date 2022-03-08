@@ -6,12 +6,12 @@ const Header = () => {
     return (
         <div className={heroContainer}>
             <div className={heroText}>
-                <h2>LEGO Builds and News</h2>
+                <h1>LEGO Builds and News</h1>
                 <h2>Coming Soon!</h2>
             </div>
             <StaticImage
             alt="Star Wars helmets"
-            src="../images/helmets_image.jpg"
+            src="../../../assets/images/helmets_image.jpg"
             />
         </div>
     )
