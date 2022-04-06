@@ -1,3 +1,16 @@
+# Hella Bricks
+
+This site is a project with the aim to become a review, build video, and news site for LEGO sets.
+
+I built out the landing page with the GatsbyJS framework. 
+
+Additionally, I am working to get the Headless CMS configured and page components to a place where I can make posts.
+
+
+
+
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
